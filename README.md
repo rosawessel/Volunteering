@@ -1,5 +1,6 @@
 ## **Volunteering**
-*[Clink to view Volunteering on LinkedIn Online](https://www.linkedin.com/in/rosa-wessel-904101218/details/volunteering-experiences/)*
+*[View Volunteering on LinkedIn Online](https://www.linkedin.com/in/rosa-wessel-904101218/details/volunteering-experiences/)*  
+*[Back to Midterm Project](https://github.com/rosawessel/midterm/blob/main/README.md)*
 
 ### **Active Member**
 Alpha Delta Pi Sorority  
